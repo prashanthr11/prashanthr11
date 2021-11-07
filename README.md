@@ -27,6 +27,16 @@ I love distributed-systems and am learning constantly to get better at it.
 -   Build products that impact lives, and is meaningful 😇
 -   Build a product from scratch and see it scale high 💥
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prashanthr11" />
+
+<br />
+<br />
+
+![](https://github-readme-stats.vercel.app/api?username=prashanthr11&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthr11)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📱 Get In Touch
 
 -   Email: [prashanthr6789@gmail.com](prashanthr6789@gmail.com)
