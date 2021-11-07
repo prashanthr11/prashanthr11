@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Prashanth Reddy: @prashanthr11
+```
+Hi! I am Prashanth, a Backend Engineer focusing primarily on building scalable and meaningful products 📖 .
+I mostly work on Backend.
+I love distributed-systems and am learning constantly to get better at it.
+```
+
+### 🛩 The Dream
+
+-   Build products that impact lives, and is meaningful 😇
+-   Build a product from scratch and see it scale high 💥
+
+### 📱 Get In Touch
+
+-   Email: [prashanthr6789@gmail.com](prashanthr6789@gmail.com)
+-   LinkedIn: [www.linkedin.com/in/prashanth-reddy-a6abb515b/](https://www.linkedin.com/in/prashanth-reddy-a6abb515b/)
