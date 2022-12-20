@@ -1,5 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+
 <!--
 **prashanthr11/prashanthr11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,4 +41,5 @@ I love distributed-systems and am learning constantly to get better at it.
 ### 📱 Get In Touch
 
 -   Email: [prashanthr6789@gmail.com](prashanthr6789@gmail.com)
--   LinkedIn: [www.linkedin.com/in/prashanth-reddy-a6abb515b/](https://www.linkedin.com/in/prashanth-reddy-a6abb515b/)
+-   LinkedIn: [www.linkedin.com/in/prashanth-kumar-reddy-busupalli-a6abb515b](https://www.linkedin.com/in/prashanth-kumar-reddy-busupalli-a6abb515b)
+  
