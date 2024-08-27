@@ -43,5 +43,4 @@ Recently, I have become increasingly interested in the field of System Design an
 
 -   Website: [prashanthr11.github.io](https://prashanthr11.github.io/)
 -   Email: [prashanthr6789@gmail.com](prashanthr6789@gmail.com)
--   LinkedIn: [www.linkedin.com/in/prashanth-kumar-reddy-busupalli-a6abb515b](https://www.linkedin.com/in/prashanth-kumar-reddy-busupalli-a6abb515b)
-  
+-   LinkedIn: [https://www.linkedin.com/in/prashanth-busupalli-a6abb515b/](https://www.linkedin.com/in/prashanth-busupalli-a6abb515b/)
